@@ -1,9 +1,9 @@
-# Spring-CQ-demo-UI
-这是Spring-CQ-demo的页面。基于Vue框架+Vuetify组件库开发。
+# Spring-CQ-web-UI
+这是Spring-CQ-web的页面。基于Vue框架+Vuetify组件库开发。
 
 框架项目地址：https://github.com/lz1998/spring-cq
 
-后端项目地址：https://github.com/lz1998/spring-cq-demo
+后端项目地址：https://github.com/lz1998/spring-cq-web
 
 ## 项目环境
 - nodejs 12.16.1
